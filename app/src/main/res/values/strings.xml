@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">first git</string>
+    <string name="hello_good_day">Hello! good day</string>
 </resources>
